@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá! Meu nome é Anderson Cardim
 
-<!--
-**Anderson-Cardim/Anderson-Cardim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas com forte paixão por programação e inovação. Meu foco de estudo atual é o ecossistema JavaScript/TypeScript, com especialização na biblioteca React. Busco contínuo aprimoramento em novas tecnologias e boas práticas de desenvolvimento
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias e Ferramentas <br> 
+**🌐 Linguagens:** JavaScript/Typescript <br> <br>
+**🛠️ Frameworks:** Node.js, TailwindCss <br> <br>
+**📚 Banco de Dados:** MySQL, H2, MongoDB, Postgree <br> <br>
+**🧰 Outras Ferramentas:** Git, Docker, Postman, VSCode <br> <br>
+📫 Contato <br> 
+**LinkedIn:** https://www.linkedin.com/in/anderson-cardim/ <br> <br>
+**E-mail:** anderson10cardim@gmail.com <br> 
